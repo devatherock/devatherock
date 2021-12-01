@@ -1,6 +1,6 @@
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=devatherock&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devatherock&layout=compact&theme=dark"/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devatherock&show_icons=true&theme=dark&hide_rank=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devatherock&layout=compact&theme=dark"/>
 </p>
 
 [![simple-slack](https://github-readme-stats.vercel.app/api/pin?username=devatherock&repo=simple-slack&theme=dark)](https://github.com/devatherock/simple-slack)
